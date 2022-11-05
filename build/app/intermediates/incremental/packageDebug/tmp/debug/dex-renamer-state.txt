@@ -1,0 +1,4 @@
+#Sun Oct 30 03:00:13 AST 2022
+base.0=/Users/mac/Desktop/flutter-state-management/testingbloc_course/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
